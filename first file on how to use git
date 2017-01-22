@@ -1,0 +1,7 @@
+git config --global user.name "Firstname Lastname"
+git config --global user.email youremailusername@yourprovider.com
+git config --global core.editor "vim"
+# https
+git clone https://github.com/yourusername/repository.git
+# ssh
+git clone git@github.com:yourusername/repository.git
